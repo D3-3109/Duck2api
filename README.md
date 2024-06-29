@@ -17,15 +17,6 @@ https://t.me/aurora_develop
 ### Render部署
 [![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-### 编译部署
-
-```bash
-git clone https://github.com/aurora-develop/duck2api
-cd duck2api
-go build -o duck2api
-chmod +x ./duck2api
-./duck2api
-```
 
 ### Docker部署
 ## Docker部署
